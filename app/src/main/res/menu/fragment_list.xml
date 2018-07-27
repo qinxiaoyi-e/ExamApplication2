@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/music_start"
+        android:id="@+id/music_start"/>
+    <item
+        android:title="@string/music_stop"
+        android:id="@+id/music_stop"/>
+    <item
+        android:title="@string/web_view"
+        android:id="@+id/web_view"/>
+
+</menu>
